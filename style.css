@@ -1,0 +1,228 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    
+}
+
+.logotext{
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+    
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    
+}
+
+.login-label{
+    color: white;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.Forget-text{
+    color: #9cb4d8;
+    font-size: 12px;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.login-controls{
+    margin-left: 115px;
+}
+
+.login-button{
+    background-color: #4267b2;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    border-color: #29487d;
+    padding: 4px 8px;
+    cursor: pointer;
+    
+}
+
+.login-button:hover{
+    background: darkblue;
+    color: grey;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-section{
+    width: 39%;
+    float: left;
+}
+
+.mainbody{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 610px;
+
+}
+
+.image{
+    width: 581px;
+}
+
+.para{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.text{
+    font-size: 38px;
+    margin-bottom: 9px;
+}
+
+.text2{
+    font-size: 22px;
+    margin-top: 9px;
+    
+}
+
+.name{
+    padding-right: 12px;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    border: 2px solid #acb0ae;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.surname{
+    padding-right: 12px;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    border: 2px solid #acb0ae;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-left: 5px
+}
+
+.email{
+    padding-right: 250px;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    border: 2px solid #acb0ae;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+
+.pass{
+    padding-right: 250px;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    border: 2px solid #acb0ae;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.dob{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #808080;
+    margin-bottom: 8px;
+}
+
+.date{
+    padding: 7px 3px 7px 3px;
+    border: 2px solid #acb0ae;
+    border-radius: 5px;
+}
+
+.Month{
+
+    padding: 7px 8px 7px 8px;
+    border: 2px solid #acb0ae;
+    border-radius: 5px;
+}
+
+.year{
+    padding: 7px 8px 7px 8px;
+    border: 2px solid #acb0ae;
+    border-radius: 5px;
+
+}
+
+.question{
+    padding: 3px 6px 0px 6px;
+    border: 2px solid #acb0ae;
+    border-radius: 17px;
+    background: #36454F;
+    color: white;
+    margin-left: 10px;
+}
+
+.gender{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.radio2{
+    margin-left: 20px;
+}
+
+.radio3{
+
+    margin-left: 20px;
+}
+
+.terms{
+    margin-top: 21px;
+    font-size: 12px;
+    color: #36454F;
+    font-weight: bold;
+}
+
+.link{
+    color: #05308e;
+    text-decoration: none;
+
+}
+
+.sign-up{
+    background: rgb(105, 167, 78);
+    border: 1px solid rgb(59, 110, 34);
+    padding: 8px 65px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 6px;
+}
